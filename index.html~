@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gems website and game
+</title>
+  <link rel="stylesheet" type="text/css" href="main.css"/>
+</head>
+<body>
+  <h1> Hello! I hope you enjoy my game!
+</h1>
+<p> To play this game use the arroy keys to move the fish out of the way of the obsticles</p>
+
+</body>
+</html>
